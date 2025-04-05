@@ -1,0 +1,15 @@
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\adama\OneDrive\Documents\cis port\cis 199\lab 7 nested loop\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
